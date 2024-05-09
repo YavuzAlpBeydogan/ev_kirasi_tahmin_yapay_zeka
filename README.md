@@ -1,0 +1,1 @@
+# ev_kirasi_tahmin_yapay_zeka
